@@ -1,0 +1,8 @@
+.message-column {
+    width: 60%;
+}
+
+/* Asigna el ancho deseado para la columna de la fecha de creación */
+.created-at-column {
+    width: 40%;
+}
